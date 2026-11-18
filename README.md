@@ -2,7 +2,7 @@
 
 MeTube is a self-hosted web UI for [yt-dlp](https://github.com/yt-dlp/yt-dlp): paste a link from YouTube or hundreds of other sites and it downloads to your server — video, audio, playlists, channels, and subscriptions, with a queue you can watch fill up in real time. One click deploys the official image (alexta69/metube 2026.11.14, AGPL-3.0) as a single service with a persistent downloads volume. The deploy form is empty: no accounts, no setup wizard, no email step — open the URL and paste your first link.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/metube?utm_campaign=metube)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/metube-4?utm_campaign=metube)
 
 ![MeTube download queue and add-link UI](https://raw.githubusercontent.com/INAPP-Mobile/metube/main/assets/screenshot.gif)
 

@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/metube?utm_campaign=metube)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/metube-4?utm_campaign=metube)
 
 ![MeTube download queue and add-link UI](https://raw.githubusercontent.com/INAPP-Mobile/metube/main/assets/screenshot.gif)
 
